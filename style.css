@@ -30,7 +30,13 @@ body {
         margin-right: auto;
     }
 
-    @media screen and (max-width: 281px) {
+    @media screen and (max-width : 768px) {
+        width: 500px;
+        height: 100px;
+        font-size: 64px;
+    }
+
+    @media screen and (max-width: 400px) {
         width: 270px;
         height: 112px;
         font-size: 52px;
