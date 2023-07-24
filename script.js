@@ -1,5 +1,3 @@
-// I saw that jquery is attached. But  I confused   about should I use jQuery ajax or not. If its' a must. I can change to  jQuery ajax
-
 import Api from "./Api.js";
 
 function renderCards(count) {
@@ -28,11 +26,6 @@ function renderCards(count) {
     
   }
 
-  // Promise.allSettled(arr).then(results=>{
-  //   let mainDiv = document.querySelector(".factList")
-  //   results.forEach( (result ,index )=> {      
-  //   })
-  // })
   
   
 }
